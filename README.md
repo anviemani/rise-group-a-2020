@@ -1,4 +1,4 @@
-# rise-group-a-2020
+# Decreased Calcium Concentration Leads to Hyperexcitability in Computational Network Model of the Dentate Gyrus
 
 Hello World!
 

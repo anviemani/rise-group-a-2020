@@ -4,5 +4,5 @@ Welcome to our website! Our names are Sreeanvitha Emani, Thomas Lu, Sophia Ma, a
 
 
 <div class="textDiv2">
-	<iframe src="/GroupAPoster.pdf" height="365" width="540" ></iframe>
+	<iframe src="https://github.com/anviemani/rise-group-a-2020/blob/master/GroupA-Poster.pdf" height="365" width="540" ></iframe>
 	</div>
